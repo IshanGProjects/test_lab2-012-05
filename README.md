@@ -1,2 +1,6 @@
 # test_lab2-012-05
-Lab 2 Project Requirements:
+Recitation-012-Team-5
+Ishan Gohil: IshanGProjects
+Jaskarn Kahlon: JaskarnKahlon1
+Abby Haines: AbbyHaines
+Birwa Balar: balarbirwa
